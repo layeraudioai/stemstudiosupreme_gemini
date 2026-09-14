@@ -1,0 +1,6 @@
+{
+  "name": "StemStudio SF2 & MIDI DAW Suite",
+  "description": "Unified digital audio workstation combining StemStudioSupreme audio stem splitter & piano roll, SoundFont 2 (SF2) multi-sample builder & inspector, and MIDI to MP3/WAV converter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
